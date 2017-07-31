@@ -3,9 +3,11 @@ body {
 }
 
 * {
-  font-family: Avenir-Next, Arial, sans-serif;
+    font-family: "Roboto", Arial, sans-serif;
 }
 
-h1, h2, h3 {
-  color: lime;
+h1,
+h2,
+h3 {
+    color: lime;
 }
