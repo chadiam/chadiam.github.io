@@ -2,6 +2,10 @@ body {
     background-color: darkslategray;
 }
 
+* {
+  font-family: Avenir-Next, Arial, sans-serif;
+}
+
 h1, h2, h3 {
   color: lime;
 }
