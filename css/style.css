@@ -1,7 +1,7 @@
 body {
-    background-color: slategray;
+    background-color: darkslategray;
 }
 
-h1 {
-  color: limegreen;
+h1, h2, h3 {
+  color: lime;
 }
