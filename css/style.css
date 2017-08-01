@@ -9,3 +9,8 @@ h2,
 h3 {
     color: #1FB98F;
 }
+
+a:link,
+a:visited {
+    color: #F67F5E;
+}
