@@ -1,12 +1,23 @@
 /*STYLE SHEET FOR SYB.HTML*/
 
-body             
-{			
-font-family:arial, verdana, helvetica; 
-color:black; 
-font-size:14px; 
-background-color:white;
+body {
+    font-family: arial, verdana, helvetica;
+    color: black;
+    font-size: 14px;
+    background-color: white;
 }
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.floatright {
+    float: right;
+    margin: 5px;
+}
+
 
 /*
 h1             
@@ -17,6 +28,7 @@ font-size:32px;
 } 
 */
 
+
 /*
 h2             
 {			
@@ -25,6 +37,7 @@ color:black;
 font-size:27px;
 } 
 */
+
 
 /*
 h3             
