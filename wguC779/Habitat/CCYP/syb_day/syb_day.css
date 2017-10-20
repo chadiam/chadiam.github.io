@@ -13,21 +13,21 @@ p {
 }
 
 h2 {
-    color: purple;
     margin-top: 9px;
     font-weight: bold;
     font-size: 120%;
     margin-bottom: 10px;
     font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+    color: purple;
 }
 
 h3 {
-    color: purple;
     margin-top: 17px;
     font-weight: bold;
     font-size: 100%;
     margin-bottom: 10px;
     font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+    color: purple;
 }
 
 a {
@@ -95,4 +95,34 @@ footer {
     padding: 0;
     margin-top: 0;
     background-color: #fff;
+}
+
+table,
+td,
+th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+    font-size: 70%;
+    width: 90%;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th.width {
+    width: 50px;
+}
+
+td {
+    padding: 5px;
+}
+
+td.center {
+    text-align: center;
 }
