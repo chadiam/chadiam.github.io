@@ -115,12 +115,21 @@ table.center {
     margin-right: auto;
 }
 
+tr:nth-child(odd) {
+    background: lightblue;
+}
+
+th {
+    color: white;
+    background-color: #6699FF;
+}
+
 th.width {
-    width: 50px;
+    width: 93px;
 }
 
 td {
-    padding: 5px;
+    padding: 3px;
 }
 
 td.center {
